@@ -12,7 +12,7 @@ file = open("input.txt", "r")
 content = file.read()
 file.close()
 
-# Modify the content (e.g., convert to uppercase)
+# Modify the content (convert to uppercase)
 modified_content = content.upper()
 
 # Write modified content to a new file
